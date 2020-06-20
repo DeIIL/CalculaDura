@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name ="txtvalue1">Digite o primeiro valor:</string>
+    <string name="txtvalue2">Digite o segundo valor:</string>
+    <string name="txtva1"></string>
+    <string name="txtva2"></string>
+    <string name="btnplus">+</string>
+    <string name="btnless">-</string>
+    <string name="btnhalf">÷</string>
+    <string name="btnx">x</string>
+    <string name="txtresult"></string>
+</resources>
